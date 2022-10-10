@@ -25,7 +25,7 @@ const {fullName , Professions , bio, handeleAlert} = props
                     <h3>Professions:{Professions}</h3>
                     </div>
                     <div className="bio">
-                        <h4>biography:{bio}</h4>
+                        <h4> {bio}</h4>
                     
                     </div>
                     
